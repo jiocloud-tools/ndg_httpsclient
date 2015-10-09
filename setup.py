@@ -96,7 +96,7 @@ Options:
 '''
     
 setup(
-    name='ndg_httpsclient',
+    name='ndg-httpsclient',
     version="0.3.3",
     description='Provides enhanced HTTPS support for httplib and urllib2 using '
                 'PyOpenSSL',
