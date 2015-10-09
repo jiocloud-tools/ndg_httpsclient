@@ -123,7 +123,7 @@ setup(
             'test/pki/ca/*.0'
             ],
     },
-    install_requires=['openssl'],
+    install_requires=['PyOpenSSL'],
     extras_require={'subjectAltName_support': 'pyasn1'},
     classifiers=[
         'Development Status :: 3 - Alpha',
